@@ -1,2 +1,2 @@
-# Exponent-Calculater
+# Exponent-Calculator
 It is a simple exponent calculator
